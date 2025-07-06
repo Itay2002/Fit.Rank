@@ -1,0 +1,14 @@
+.homepage {
+    height: 100vh;
+    background-color: black;
+    background-image: url('../images/fuelvisionLogo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px auto; /* Adjust as needed */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
