@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fit.Rank/static/css/main.7850a7d0.css",
+    "main.js": "/Fit.Rank/static/js/main.bc8ed81f.js",
+    "static/js/453.96453769.chunk.js": "/Fit.Rank/static/js/453.96453769.chunk.js",
+    "static/media/fuelvisionLogo.png": "/Fit.Rank/static/media/fuelvisionLogo.2720925236f10e70ef12.png",
+    "index.html": "/Fit.Rank/index.html",
+    "main.7850a7d0.css.map": "/Fit.Rank/static/css/main.7850a7d0.css.map",
+    "main.bc8ed81f.js.map": "/Fit.Rank/static/js/main.bc8ed81f.js.map",
+    "453.96453769.chunk.js.map": "/Fit.Rank/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7850a7d0.css",
+    "static/js/main.bc8ed81f.js"
+  ]
+}
