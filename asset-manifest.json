@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Fit.Rank/static/css/main.7850a7d0.css",
-    "main.js": "/Fit.Rank/static/js/main.bc8ed81f.js",
-    "static/js/453.96453769.chunk.js": "/Fit.Rank/static/js/453.96453769.chunk.js",
-    "static/media/fuelvisionLogo.png": "/Fit.Rank/static/media/fuelvisionLogo.2720925236f10e70ef12.png",
-    "index.html": "/Fit.Rank/index.html",
-    "main.7850a7d0.css.map": "/Fit.Rank/static/css/main.7850a7d0.css.map",
-    "main.bc8ed81f.js.map": "/Fit.Rank/static/js/main.bc8ed81f.js.map",
-    "453.96453769.chunk.js.map": "/Fit.Rank/static/js/453.96453769.chunk.js.map"
+    "main.css": "/FuelVision/static/css/main.5496f5d8.css",
+    "main.js": "/FuelVision/static/js/main.e3e2a679.js",
+    "static/js/453.96453769.chunk.js": "/FuelVision/static/js/453.96453769.chunk.js",
+    "static/media/fuelvisionLogo.png": "/FuelVision/static/media/fuelvisionLogo.2720925236f10e70ef12.png",
+    "index.html": "/FuelVision/index.html",
+    "main.5496f5d8.css.map": "/FuelVision/static/css/main.5496f5d8.css.map",
+    "main.e3e2a679.js.map": "/FuelVision/static/js/main.e3e2a679.js.map",
+    "453.96453769.chunk.js.map": "/FuelVision/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7850a7d0.css",
-    "static/js/main.bc8ed81f.js"
+    "static/css/main.5496f5d8.css",
+    "static/js/main.e3e2a679.js"
   ]
 }
